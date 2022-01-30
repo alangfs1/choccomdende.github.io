@@ -1,0 +1,16 @@
+#navbar {
+    height: 150px;
+}
+
+#navbar-container {
+    flex-direction: column;
+}
+
+#produtos-container {
+    margin-top: 150px;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+#showcase {
+    display: none;
+}

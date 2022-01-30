@@ -1,0 +1,8 @@
+#navbar {
+    height: 150px;
+}
+
+#produtos-container {
+    margin-top: 150px;
+    grid-template-columns: 1fr;
+}
